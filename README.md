@@ -7,4 +7,9 @@
 Website: https://socketman.app
 
 ## Documentation
-https://socketman.app/en-US/docs/introduction
+
+https://socketman.app/en/guide
+
+## Download
+
+[v0.1.0](https://github.com/socketmanapp/desktop/releases/tag/v0.1.0)

@@ -7,4 +7,9 @@
 Website: https://socketman.app
 
 ## 使用文档
-https://socketman.app/zh-CN/docs/introduction
+
+https://socketman.app/guide
+
+## 下载安装
+
+[v0.1.0](https://github.com/socketmanapp/desktop/releases/tag/v0.1.0)
