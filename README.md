@@ -12,4 +12,4 @@ https://socketman.app/en/guide
 
 ## Download
 
-[v0.1.0](https://github.com/socketmanapp/desktop/releases/tag/v0.1.0)
+[v0.3.0](https://github.com/socketmanapp/desktop/releases/tag/v0.3.0)
