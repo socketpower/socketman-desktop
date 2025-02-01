@@ -17,8 +17,8 @@ https://socketman.app/en/guide
 
 ## Download
 
-[Microsoft Store](https://apps.microsoft.com/store/detail/9NN916NB3WTT?cid=DevShareMCLPCS)
+[Microsoft Store](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=en-US)
 
-[v0.6.0](https://github.com/socketmanapp/desktop/releases/tag/v0.6.0)
+[Github Release: v0.6.0](https://github.com/socketmanapp/desktop/releases/tag/v0.6.0)
 
-[v0.5.0](https://github.com/socketmanapp/desktop/releases/tag/v0.5.0)
+[Github Release: v0.5.0](https://github.com/socketmanapp/desktop/releases/tag/v0.5.0)
