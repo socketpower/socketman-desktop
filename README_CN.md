@@ -9,6 +9,12 @@ Website: https://socketman.app
 
 ![Socketman Logo](images/icon_512x512@2x-macos.png)
 
+## Socketman 介绍
+
+Socketman是一款专为Windows和MacOS操作系统设计的桌面软件，旨在提供高效、专业的网络通信支持和调试功能。它支持WebSocket、TCP、UDP等主流协议，并持续拓展更多协议以满足未来需求。软件界面性能卓越，可将Socket数据以Hex、Base64、Msgpack等多种文本格式精准呈现，同时支持数据图表化展示，助力深度分析。
+
+## 程序界面截图
+
 ![Socketman Screen Snapshot, light theme](screenshots/Socketman-windows-snapshot-1.png)
 ![Socketman Screen Snapshot, dark theme](screenshots/Socketman-windows-snapshot-2.png)
 

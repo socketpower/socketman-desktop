@@ -8,6 +8,11 @@ Website: https://socketman.app
 
 ![Socketman Logo](images/icon_512x512@2x-macos.png)
 
+## Introduction
+
+SocketMan is a desktop software designed specifically for Windows and MacOS operating systems, aiming to provide efficient and professional network communication support and debugging functions. It supports mainstream protocols such as WebSocket, TCP, and UDP, and continues to expand more protocols to meet future needs. The software has excellent interface performance and can accurately present Socket data in various text formats such as Hex, Base64, and Msgpack. It also supports data visualization in charts, which helps with in-depth analysis.
+
+## Screenshots
 ![Socketman Screen Snapshot, light theme](screenshots/Socketman-windows-snapshot-1-en.png)
 ![Socketman Screen Snapshot, dark theme](screenshots/Socketman-windows-snapshot-2-en.png)
 
