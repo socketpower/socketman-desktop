@@ -6,11 +6,20 @@
 
 Website: https://socketman.app
 
-![Socketman Logo](images/icon_512x512@2x-macos.png)
+<div align="center">
+<img src="images/icon_512x512@2x-macos.png" width="256" height="256" />
+</div>
 
 ## Introduction
 
-SocketMan is a desktop software designed specifically for Windows and MacOS operating systems, aiming to provide efficient and professional network communication support and debugging functions. It supports mainstream protocols such as WebSocket, TCP, and UDP, and continues to expand more protocols to meet future needs. The software has excellent interface performance and can accurately present Socket data in various text formats such as Hex, Base64, and Msgpack. It also supports data visualization in charts, which helps with in-depth analysis.
+Socketman is a modern, aesthetically pleasing, lightweight, and high-performance network and serial data debugging tool that aims to provide efficient and professional data debugging software for developers.
+
+### Features
+
+- It supports mainstream protocols such as WebSocket, TCP, UDP, etc., and will continue to support more protocols in future versions;
+- It supports presenting data in various text formats such as Hex, String, JSON, Monspack, Protobuf, etc;
+- It supports displaying data in graphical form, including waveform and line charts;
+- It is built on the Flutter cross platform framework and Rust language, and has excellent performance.
 
 ## Screenshots
 ![Socketman Screen Snapshot, light theme](screenshots/Socketman-windows-snapshot-1-en.png)
@@ -20,10 +29,18 @@ SocketMan is a desktop software designed specifically for Windows and MacOS oper
 
 https://socketman.app/en/guide
 
-## Download
+## Get Socketman App
 
-[Microsoft Store](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=en-US)
+### App Store
 
-[Github Release: v0.6.0](https://github.com/socketmanapp/desktop/releases/tag/v0.6.0)
+[<img src="images/get-it-on-microsoft-store.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=en-US)
 
-[Github Release: v0.5.0](https://github.com/socketmanapp/desktop/releases/tag/v0.5.0)
+[<img src="images/get-it-on-windows-10.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=en-US)
+
+### GitHub Releases
+
+<img src="images/get-it-on-github.png" height="48"/>
+
+[v0.6.0](https://github.com/socketmanapp/desktop/releases/tag/v0.6.0)
+
+[v0.5.0](https://github.com/socketmanapp/desktop/releases/tag/v0.5.0)
