@@ -16,10 +16,13 @@ Socketman is a modern, aesthetically pleasing, lightweight, and high-performance
 
 ### Features
 
-- It supports mainstream protocols such as WebSocket, TCP, UDP, etc., and will continue to support more protocols in future versions;
-- It supports presenting data in various text formats such as Hex, String, JSON, Monspack, Protobuf, etc;
-- It supports displaying data in graphical form, including waveform and line charts;
-- It is built on the Flutter cross platform framework and Rust language, and has excellent performance.
+- 💻 Native Desktop(Windows, macOS, *Linux*) App, Writeten by Flutter+Rust, Powered by Rust for the high-performance network/drive application.
+- 🖥️ Built for MacOS Ventura & Sonoma, Windows 10
+- 🎊 Modern and intuitive UI
+- ✨ Mainstream protocols: WebSocket, TCP, UDP, etc., and will continue to support more protocols in future versions;
+- ✨ Presenting data in various text formats such as Hex, String, JSON, Monspack, Protobuf, etc;
+- ✨Displaying data in graphical form, including waveform and line charts;
+- 🎇 Built on the Flutter cross platform framework and Rust language, and has excellent performance.
 
 ## Screenshots
 ![Socketman Screen Snapshot, light theme](screenshots/Socketman-windows-snapshot-1-en.png)
