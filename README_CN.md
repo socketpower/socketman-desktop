@@ -16,10 +16,13 @@ Socketman是一款现代化的界面美观且轻量级高性能的网络和串�
 
 ### 功能特性
 
-- 支持WebSocket、TCP、UDP等主流协议，在后续版本中会持续支持更多协议；
-- 支持将数据以Hex、String、JSON、 Msgpack、Protobuf等多种文本格式呈现；
-- 支持将数据以图表化绘图显示，支持波形图、折线图等图表类型；
-- 基于Flutter跨平台框架和Rust语言来构建，具备非常优秀的性能表现。
+- 💻 原生性能桌面(Windows, macOS, *Linux*) 应用, 基于Flutter+Rust打造, 使用Rust构建的高性能网络调试工具.
+- 🖥️ 构建支持 MacOS Ventura & Sonoma和 Windows 10
+- 🎊 现代化的、漂亮的界面
+- ✨ 主流协议: WebSocket, TCP, UDP等，后续版本中会持续支持更多协议
+- ✨ 将数据以Hex、String、JSON、 Msgpack、Protobuf等多种文本格式呈现
+- ✨ 将数据以图表化绘图显示，支持波形图、折线图等图表类型；
+- 🎇 基于Flutter跨平台框架和Rust语言来构建，具备非常优秀的性能表现。
 
 ## 程序界面截图
 
