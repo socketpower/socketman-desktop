@@ -1,13 +1,13 @@
 # Socketman
 
-[中文版本](./README_CN.md)
+[简体中文](./README_CN.md) | [繁体中文](./README_HK.md) | [English](./README.md)
 
 ⚠️ **Note: Socketman is a non-open source project, this repository is only used to manage requirements and user feedback.**
 
 Website: https://socketman.app
 
 <div align="center">
-<img src="images/icon_512x512@2x-macos.png" width="256" height="256" />
+<img src="images/app-banner.png" />
 </div>
 
 ## Introduction
@@ -22,8 +22,10 @@ Socketman is a modern, aesthetically pleasing, lightweight, and high-performance
 - It is built on the Flutter cross platform framework and Rust language, and has excellent performance.
 
 ## Screenshots
-![Socketman Screen Snapshot, light theme](screenshots/Socketman-windows-snapshot-1-en.png)
-![Socketman Screen Snapshot, dark theme](screenshots/Socketman-windows-snapshot-2-en.png)
+
+![Socketman Screen Snapshot, Protocols](screenshots/Cover-1-protocols-en.png)
+![Socketman Screen Snapshot, Formats](screenshots/Cover-2-formats-en.png)
+![Socketman Screen Snapshot, Formats](screenshots/Cover-3-charts-en.png)
 
 ## Documentation
 
@@ -41,6 +43,6 @@ https://socketman.app/en/guide
 
 <img src="images/get-it-on-github.png" height="48"/>
 
-[v0.6.0](https://github.com/socketmanapp/desktop/releases/tag/v0.6.0)
+[v0.7.0](https://github.com/socketmanapp/desktop/releases/tag/v0.7.0)
 
 [v0.5.0](https://github.com/socketmanapp/desktop/releases/tag/v0.5.0)

@@ -1,13 +1,13 @@
 # Socketman
 
-[English](./README.md)
+[简体中文](./README_CN.md) | [繁体中文](./README_HK.md) | [English](./README.md)
 
 ⚠️ **注意：Socketman是非开源项目，本仓库仅用来管理需求和用户反馈。**
 
-Website: https://socketman.app
+官方网站: https://socketman.app
 
 <div align="center">
-<img src="images/icon_512x512@2x-macos.png" width="256" height="256" />
+<img src="images/app-banner.png" />
 </div>
 
 ## Socketman 介绍
@@ -23,8 +23,9 @@ Socketman是一款现代化的界面美观且轻量级高性能的网络和串�
 
 ## 程序界面截图
 
-![Socketman Screen Snapshot, light theme](screenshots/Socketman-windows-snapshot-1.png)
-![Socketman Screen Snapshot, dark theme](screenshots/Socketman-windows-snapshot-2.png)
+![Socketman Screen Snapshot, Protocols](screenshots/Cover-1-protocols-zh.png)
+![Socketman Screen Snapshot, Formats](screenshots/Cover-2-formats-zh.png)
+![Socketman Screen Snapshot, Formats](screenshots/Cover-3-charts-zh.png)
 
 
 ## 使用文档
@@ -43,6 +44,6 @@ https://socketman.app/guide
 
 <img src="images/get-it-on-github.png" height="48"/>
 
-[v0.6.0](https://github.com/socketmanapp/desktop/releases/tag/v0.6.0)
+[v0.7.0](https://github.com/socketmanapp/desktop/releases/tag/v0.7.0)
 
 [v0.5.0](https://github.com/socketmanapp/desktop/releases/tag/v0.5.0)
