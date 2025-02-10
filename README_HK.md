@@ -4,8 +4,6 @@
 
 ⚠️ **注意：Socketman是非開源項目，本倉庫僅用來管理需求和用戶反饋。**
 
-官方網站: https://socketman.app
-
 <div align="center">
 <img src="images/app-banner.png" />
 </div>
@@ -13,6 +11,8 @@
 ## Socketman 介紹
 
 Socketman是一款現代化的界面美觀且輕量級高性能的網絡和串口數據調試工具，它的目標是為廣大開發者提供高效專業的數據調試軟件。
+
+官方網站: [https://socketman.app/hk](https://socketman.app/hk)
 
 ### 功能特性
 
