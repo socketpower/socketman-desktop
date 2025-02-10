@@ -24,6 +24,17 @@ Socketman是一款现代化的界面美观且轻量级高性能的网络和串�
 - ✨ 将数据以图表化绘图显示，支持波形图、折线图等图表类型；
 - 🎇 基于Flutter跨平台框架和Rust语言来构建，具备非常优秀的性能表现。
 
+## 下载安装
+
+### 从 Windows 10 / Microsoft Store 下载安装
+
+- [<img src="images/get-it-on-microsoft-store.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=zh-CN)
+- [<img src="images/get-it-on-windows-10.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=zh-CN)
+
+### 从 GitHub Release 下载安装
+
+- [<img src="images/get-it-on-github.png" height="48"/>](https://github.com/socketmanapp/desktop/releases/tag/v0.7.0)
+
 ## 程序界面截图
 
 ![Socketman Screen Snapshot, Protocols](screenshots/Cover-1-protocols-zh.png)
@@ -35,18 +46,3 @@ Socketman是一款现代化的界面美观且轻量级高性能的网络和串�
 
 https://socketman.app/guide
 
-## 安装 Socketman App
-
-### 应用市场 App Store
-
-[<img src="images/get-it-on-microsoft-store.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=en-US)
-
-[<img src="images/get-it-on-windows-10.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=en-US)
-
-### GitHub Releases
-
-<img src="images/get-it-on-github.png" height="48"/>
-
-[v0.7.0](https://github.com/socketmanapp/desktop/releases/tag/v0.7.0)
-
-[v0.5.0](https://github.com/socketmanapp/desktop/releases/tag/v0.5.0)
