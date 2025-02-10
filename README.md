@@ -4,8 +4,6 @@
 
 ⚠️ **Note: Socketman is a non-open source project, this repository is only used to manage requirements and user feedback.**
 
-Website: https://socketman.app
-
 <div align="center">
 <img src="images/app-banner.png" />
 </div>
@@ -13,6 +11,8 @@ Website: https://socketman.app
 ## Introduction
 
 Socketman is a modern, aesthetically pleasing, lightweight, and high-performance network and serial data debugging tool that aims to provide efficient and professional data debugging software for developers.
+
+Website: [https://socketman.app/en](https://socketman.app/en)
 
 ### Features
 
