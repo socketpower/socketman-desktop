@@ -4,8 +4,6 @@
 
 ⚠️ **注意：Socketman是非开源项目，本仓库仅用来管理需求和用户反馈。**
 
-官方网站: https://socketman.app
-
 <div align="center">
 <img src="images/app-banner.png" />
 </div>
@@ -13,6 +11,8 @@
 ## Socketman 介绍
 
 Socketman是一款现代化的界面美观且轻量级高性能的网络和串口数据调试工具，它的目标是为广大开发者提供高效专业的数据调试软件。
+
+官方网站：[https://socketman.app](https://socketman.app)
 
 ### 功能特性
 
