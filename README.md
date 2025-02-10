@@ -24,6 +24,17 @@ Socketman is a modern, aesthetically pleasing, lightweight, and high-performance
 - ✨Displaying data in graphical form, including waveform and line charts;
 - 🎇 Built on the Flutter cross platform framework and Rust language, and has excellent performance.
 
+## Download
+
+### Get it on Windows 10 / Microsoft Store
+
+- [<img src="images/get-it-on-microsoft-store.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=en-US)
+- [<img src="images/get-it-on-windows-10.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=en-US)
+
+### Get it on GitHub Release
+
+- [<img src="images/get-it-on-github.png" height="48"/>](https://github.com/socketmanapp/desktop/releases/tag/v0.7.0)
+
 ## Screenshots
 
 ![Socketman Screen Snapshot, Protocols](screenshots/Cover-1-protocols-en.png)
@@ -34,18 +45,3 @@ Socketman is a modern, aesthetically pleasing, lightweight, and high-performance
 
 https://socketman.app/en/guide
 
-## Get Socketman App
-
-### App Store
-
-[<img src="images/get-it-on-microsoft-store.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=en-US)
-
-[<img src="images/get-it-on-windows-10.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=en-US)
-
-### GitHub Releases
-
-<img src="images/get-it-on-github.png" height="48"/>
-
-[v0.7.0](https://github.com/socketmanapp/desktop/releases/tag/v0.7.0)
-
-[v0.5.0](https://github.com/socketmanapp/desktop/releases/tag/v0.5.0)
