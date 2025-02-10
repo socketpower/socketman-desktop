@@ -21,6 +21,17 @@ Socketman是一款現代化的界面美觀且輕量級高性能的網絡和串�
 - 支持將數據以圖表化繪圖顯示，支持波形圖、折線圖等圖表類型；
 - 基於Flutter跨平台框架和Rust語言來構建，具備非常優秀的性能表現。
 
+## 下載安裝
+
+### 从 Windows 10 / Microsoft Store 下載安裝
+
+- [<img src="images/get-it-on-microsoft-store.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=zh-CN)
+- [<img src="images/get-it-on-windows-10.png" height="48"/>](https://apps.microsoft.com/detail/9nn916nb3wtt?cid=DevShareMCLPCS&hl=zh-CN)
+
+### 从 GitHub Release 下載安裝
+
+- [<img src="images/get-it-on-github.png" height="48"/>](https://github.com/socketmanapp/desktop/releases/tag/v0.7.0)
+
 ## 程序界面截圖
 
 ![Socketman Screen Snapshot, Protocols](screenshots/Cover-1-protocols-hk.png)
