@@ -43,6 +43,5 @@ https://socketman.app/guide
 
 <img src="images/get-it-on-github.png" height="48"/>
 
-- [v0.7.0](https://github.com/socketmanapp/desktop/releases/tag/v0.7.0)
-- [v0.6.0](https://github.com/socketmanapp/desktop/releases/tag/v0.6.0)
-- [v0.5.0](https://github.com/socketmanapp/desktop/releases/tag/v0.5.0)
+- [v0.8.0](https://github.com/socketmanapp/desktop/releases/tag/v0.8.0)
+- [latest](https://github.com/socketmanapp/desktop/releases/tag/v0.8.0)
